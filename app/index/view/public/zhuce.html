@@ -1,0 +1,67 @@
+                    <div class="tab-pane container p-4 fade" id="menu1">
+                        <form action="check/logincheck.php" class="form-login" method="post">
+                            <div class="card-body p-4">
+                                <div class="input-group mb-3">
+                                    <div class="input-group-prepend">
+                                        <span class='input-group-text'>
+                                            <i class="ion-ios-contact">
+                                            </i>
+                                        </span>
+                                    </div>
+                                    <input class="form-control" name="username1" placeholder=" Name..." type="text">
+                                    </input>
+                                </div>
+                                <div class="input-group mb-3">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">
+                                            <i class="ion-ios-paper-plane">
+                                            </i>
+                                        </span>
+                                    </div>
+                                    <input class="form-control" name="email" placeholder="Email..." type="email">
+                                    </input>
+                                </div>
+                                <div class="input-group mb-3">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">
+                                            <i class="ion-ios-lock">
+                                            </i>
+                                        </span>
+                                    </div>
+                                    <input class="form-control" name="password1" id="test" placeholder="Password..." type="password">
+                                    </input>
+                                </div>
+                                <p id="note"></p>
+                                <div class="input-group mb-3">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">
+                                            <i class="ion-ios-lock">
+                                            </i>
+                                        </span>
+                                    </div>
+                                    <input class="form-control" name="confirm1" placeholder="Confirm..." type="password">
+                                    </input>
+                                </div>
+                            </div>
+                            <div class="footer text-center">
+                                <input class="btn btn-white" name="submit1" type="submit" onclick="checkPassword()" value="注册"/>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+ <script>
+        var pwdReg = /^(?![0-9]+$)(?![a-zA-Z]+$)[0-9A-Za-z]{8,16}$/;//8到16位数字与字母组合
+        
+        function checkPassword(){
+            var a=document.getElementById("test").value;
+            if(!pwdReg.test(a)){
+                document.getElementById('note').innerHTML = '密码必须为8到16位数字与字母组合'
+            }else{
+               return true;
+            }
+        }
+    </script>

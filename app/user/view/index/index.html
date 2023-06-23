@@ -1,0 +1,171 @@
+{include file="public\header"}
+{include file="public\menu"}
+<!---------menu--------->
+<!-------------------main------------------>
+<section class="ftco-section ftco-section-2 bg-light" id="navigationTabs" style="min-height: 40rem">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 mb-5 mb-md-0">
+                <div class="tabulation">
+                    <ul class="nav nav-pills nav-fill d-md-flex d-block">
+                        <li class="nav-item">
+                            <a class="nav-link active py-3" data-toggle="tab" href="#home" >
+                                <span class="ion-ios-copy mr-2">
+                                </span>
+                                订单信息
+                            </a>
+                        </li>
+                        <!--     <li class="nav-item">
+                                    <a class="nav-link py-3  " data-toggle="tab" href="#menu1">
+                                        <span class="ion-ios-document mr-2">
+                                        </span>
+                                        创建订单
+                                    </a>
+                                </li> -->
+                        <li class="nav-item">
+                            <a class="nav-link py-3 mx-md-3 " data-toggle="tab" href="#menu2" style="background:  #03A9F4;">
+                                <span class="ion-ios-person mr-2">
+                                </span>
+                                个人信息
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="tab-content rounded mt-md-3">
+                        <div class="tab-pane container p-4 active" id="home">
+                            <div class="content">
+                                <span>
+                                    订单列表
+                                </span>
+                                <button class="layui-btn layui-btn-sm" onclick="uadd()">
+                                    点击下单
+                                </button>
+                                <div>
+                                </div>
+                            </div>
+                            <table class="layui-table">
+                                <thead>
+                                    <tr>
+                                        <th>
+                                            订单号
+                                        </th>
+                                        <th>
+                                            项目
+                                        </th>
+                                        <th>
+                                            实验时间
+                                        </th>
+                                        <th>
+                                            状态
+                                        </th>
+                                        <th>
+                                            操作
+                                        </th>
+                                    </tr>
+                                </thead>
+                                 
+                                {volist name="dingdan" id="dingdan_v"}
+                               
+                           <tbody>
+                                  {if empty($dingdan_v.id)}
+                                <div>还没有订单</div>
+                                
+                            {else/}
+                                    <tr>
+                                        <td>
+                        {$dingdan_v.id}
+                                        </td>
+                                        <td>
+                        {if $dingdan_v.cat==0}未选择                                  
+                        {elseif $dingdan_v.cat==1}场发射电镜
+                        {elseif $dingdan_v.cat==2}钨丝灯电镜
+                        {elseif $dingdan_v.cat==3}LA-ICPMS定年
+                        {elseif $dingdan_v.cat==4}全岩主微量
+                        {elseif $dingdan_v.cat==5}CL阴极发光
+                        {elseif $dingdan_v.cat==6}EDS定量分析
+                         {elseif $dingdan_v.cat==7}原位主微量
+                        {else/}错误{/if}
+                                        </td>
+                                        <td>
+                        {$dingdan_v.start_time|date ='Y-m-d H:i'}
+                                        </td>
+                                        <td>
+                        {if $dingdan_v.status==0}已关闭
+                        {elseif $dingdan_v.status==1}未支付
+                        {elseif $dingdan_v.status==2}已支付
+                        {elseif $dingdan_v.status==3}在实验
+                        {elseif $dingdan_v.status==4}已完成
+                         {elseif $dingdan_v.status==5}已联系
+                        {else/}
+                            错误，联系开发者
+                        {/if}
+                                        </td>
+                                        <td>{if $dingdan_v.status==1}
+                                            <button class="layui-btn layui-btn-xs" onclick="uedit({$dingdan_v.id})" style="background: #f44336">
+                                                编辑
+                                            </button>{else/}
+                                            <button class="layui-btn layui-btn-xs" onclick="ulook({$dingdan_v.id})" style="background: #f44336">
+                                                查看
+                                            </button>{/if}
+                                        </td>
+                         
+                                    </tr>{/if}
+                                </tbody>
+                        
+                                {/volist}
+
+                            </table>
+
+                        </div>
+                        {include file="public/uinfo"}
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+    function uadd(){
+        layer.open({
+            type: 2,
+            title: '预约表单',
+            shade: 0.3,
+            area: ['580px', '500px'],
+            content: '/index.php/user/index/uadd'
+        });
+    }
+    function uedit(id){
+        layer.open({
+            type: 2,
+            title: '修改订单',
+            shade: 0.3,
+            area: ['500px', '500px'],
+            content: '/index.php/user/index/uedit?id='+id
+        });
+    }
+    function ulook(id){
+        layer.open({
+            type: 2,
+            title: '查看订单',
+            shade: 0.3,
+            area: ['500px', '500px'],
+            content: '/index.php/user/index/ulook?id='+id
+        });
+    }
+    function del(id){
+        layer.confirm('确定要删除吗？', {
+            icon:3,
+            btn: ['确定','取消']
+        }, function(){
+            $.post('/index.php/index/del',{'id':id},function(res){
+                if(res.code>0){
+                    layer.alert(res.msg,{icon:2});
+                }else{
+                    layer.msg(res.msg);
+                    setTimeout(function(){window.location.reload();},1000);
+                }
+            },'json');
+        });
+    }
+            </script>
+            {include file="public\note"}       
+{include file="public\footer"}
+        </div>
+    </div>
+</section>
