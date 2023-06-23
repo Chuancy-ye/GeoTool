@@ -1,0 +1,3 @@
+[2021-01-06T01:21:14+08:00][error] [0]Class 'app\controller\BaseController' not found
+[2021-01-06T01:21:16+08:00][error] [0]Class 'app\controller\BaseController' not found
+[2021-01-06T01:21:45+08:00][error] [0]Class 'app\admin\BaseController' not found

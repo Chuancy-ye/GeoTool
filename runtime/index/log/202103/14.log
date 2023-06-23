@@ -1,0 +1,27 @@
+[2021-03-14T01:11:25+08:00][sql] CONNECT:[ UseTime:0.008082s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-14T01:11:25+08:00][sql] SHOW FULL COLUMNS FROM `shop_show` [ RunTime:0.006488s ]
+[2021-03-14T01:11:25+08:00][sql] SELECT * FROM `shop_show` WHERE  `status` = 1 [ RunTime:0.000537s ]
+[2021-03-14T01:33:50+08:00][sql] CONNECT:[ UseTime:0.001507s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-14T01:33:50+08:00][sql] SHOW FULL COLUMNS FROM `shop_show` [ RunTime:0.001819s ]
+[2021-03-14T01:33:50+08:00][sql] SELECT * FROM `shop_show` WHERE  `status` = 1 [ RunTime:0.000564s ]
+[2021-03-14T01:33:55+08:00][sql] CONNECT:[ UseTime:0.000822s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-14T01:33:55+08:00][sql] SHOW FULL COLUMNS FROM `shop_show` [ RunTime:0.001372s ]
+[2021-03-14T01:33:55+08:00][sql] SELECT * FROM `shop_show` WHERE  `status` = 1 [ RunTime:0.000374s ]
+[2021-03-14T01:38:44+08:00][sql] CONNECT:[ UseTime:0.011288s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-14T01:38:44+08:00][sql] SHOW FULL COLUMNS FROM `shop_show` [ RunTime:0.001181s ]
+[2021-03-14T01:38:44+08:00][sql] SELECT * FROM `shop_show` WHERE  `status` = 1 [ RunTime:0.000480s ]
+[2021-03-14T01:39:06+08:00][sql] CONNECT:[ UseTime:0.000885s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-14T01:39:06+08:00][sql] SHOW FULL COLUMNS FROM `shop_show` [ RunTime:0.000913s ]
+[2021-03-14T01:39:06+08:00][sql] SELECT * FROM `shop_show` WHERE  `status` = 1 [ RunTime:0.000335s ]
+[2021-03-14T01:39:30+08:00][sql] CONNECT:[ UseTime:0.000923s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-14T01:39:30+08:00][sql] SHOW FULL COLUMNS FROM `shop_show` [ RunTime:0.001037s ]
+[2021-03-14T01:39:30+08:00][sql] SELECT * FROM `shop_show` WHERE  `status` = 1 [ RunTime:0.000415s ]
+[2021-03-14T01:43:17+08:00][sql] CONNECT:[ UseTime:0.001009s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-14T01:43:17+08:00][sql] SHOW FULL COLUMNS FROM `shop_show` [ RunTime:0.001232s ]
+[2021-03-14T01:43:17+08:00][sql] SELECT * FROM `shop_show` WHERE  `status` = 1 [ RunTime:0.000435s ]
+[2021-03-14T01:43:27+08:00][sql] CONNECT:[ UseTime:0.000914s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-14T01:43:27+08:00][sql] SHOW FULL COLUMNS FROM `shop_show` [ RunTime:0.000949s ]
+[2021-03-14T01:43:27+08:00][sql] SELECT * FROM `shop_show` WHERE  `status` = 1 [ RunTime:0.000403s ]
+[2021-03-14T01:56:19+08:00][sql] CONNECT:[ UseTime:0.011578s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-14T01:56:19+08:00][sql] SHOW FULL COLUMNS FROM `shop_show` [ RunTime:0.001092s ]
+[2021-03-14T01:56:19+08:00][sql] SELECT * FROM `shop_show` WHERE  `status` = 1 [ RunTime:0.000396s ]

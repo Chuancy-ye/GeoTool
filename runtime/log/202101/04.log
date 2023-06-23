@@ -1,0 +1,159 @@
+[2021-01-04T00:01:54+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\check.html
+[2021-01-04T00:01:58+08:00][error] [8]未定义数组索引: confirm
+[2021-01-04T00:02:04+08:00][error] [8]未定义数组索引: confirm
+[2021-01-04T00:02:24+08:00][error] [8]未定义数组索引: confirm
+[2021-01-04T00:06:39+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\check.html
+[2021-01-04T00:06:47+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\check.html
+[2021-01-04T00:06:52+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\check.html
+[2021-01-04T00:07:05+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\check.html
+[2021-01-04T00:07:31+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:07:45+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:13:30+08:00][error] [0]语法错误: unexpected 'else' (T_ELSE)
+[2021-01-04T00:13:39+08:00][error] [0]语法错误: unexpected 'else' (T_ELSE)
+[2021-01-04T00:13:48+08:00][error] [0]语法错误: unexpected 'else' (T_ELSE)
+[2021-01-04T00:14:36+08:00][error] [0]语法错误: unexpected 'public' (T_PUBLIC)
+[2021-01-04T00:15:22+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:15:30+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:20:10+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:20:20+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:21:30+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:27:30+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:27:36+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:29:02+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:29:09+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:29:47+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:30:33+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:32:17+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:32:22+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:32:43+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:32:48+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:33:04+08:00][error] [8]未定义数组索引: email
+[2021-01-04T00:33:08+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\check.html
+[2021-01-04T00:33:38+08:00][error] [8]未定义数组索引: username1
+[2021-01-04T00:33:47+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:33:52+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:33:59+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:34:23+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:34:29+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:35:09+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:35:13+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:35:16+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\check.html
+[2021-01-04T00:35:19+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:36:22+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:37:44+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:38:10+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:38:14+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:38:17+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\check.html
+[2021-01-04T00:38:27+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:38:31+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:38:48+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:39:12+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:39:18+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:39:36+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:39:56+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:40:08+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:41:52+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:41:56+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\check.html
+[2021-01-04T00:41:59+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:42:04+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:42:26+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:42:39+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:42:57+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:43:02+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:43:09+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:43:27+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:43:32+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:43:37+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:43:57+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:44:10+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:44:32+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:45:28+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:48:39+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:51:46+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:53:37+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:53:39+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\check.html
+[2021-01-04T00:53:42+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:53:46+08:00][error] [8]未定义数组索引: confirm1
+[2021-01-04T00:55:52+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:55:56+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:56:04+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:56:09+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:56:18+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:59:01+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T00:59:07+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:00:11+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:00:37+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:00:47+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:01:08+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:01:35+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:01:51+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:01:59+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:03:08+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:03:22+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:04:01+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:04:15+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:04:34+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:04:43+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:04:48+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:05:20+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:05:27+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:08:24+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:09:06+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:10:24+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:10:29+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:10:34+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:10:39+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:11:31+08:00][error] [8]未定义数组索引: email1
+[2021-01-04T01:11:34+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\check.html
+[2021-01-04T01:11:37+08:00][error] [8]未定义数组索引: email1
+[2021-01-04T01:13:06+08:00][error] [8]未定义数组索引: email1
+[2021-01-04T01:13:18+08:00][error] [8]未定义数组索引: email1
+[2021-01-04T01:13:33+08:00][error] [8]未定义数组索引: email1
+[2021-01-04T01:15:48+08:00][error] [8]未定义数组索引: email
+[2021-01-04T01:16:30+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:16:37+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:17:24+08:00][error] [8]未定义数组索引: password
+[2021-01-04T01:17:31+08:00][error] [8]未定义数组索引: password
+[2021-01-04T01:17:45+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:19:28+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:23:07+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:23:23+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:24:57+08:00][error] [8]未定义数组索引: password
+[2021-01-04T01:25:38+08:00][error] [8]未定义数组索引: password
+[2021-01-04T01:25:55+08:00][error] [8]未定义数组索引: password
+[2021-01-04T01:26:07+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:26:13+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:26:50+08:00][error] [8]未定义数组索引: email
+[2021-01-04T01:27:06+08:00][error] [8]未定义数组索引: email
+[2021-01-04T01:27:38+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:32:22+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:33:08+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:35:13+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:36:44+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:37:59+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:41:37+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:42:25+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:42:35+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:44:16+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:45:37+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:46:52+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:47:02+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:47:22+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:48:12+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:49:30+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:50:11+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:50:21+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:50:34+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:52:25+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T01:52:42+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T03:15:45+08:00][error] [0]语法错误: unexpected '{', expecting '('
+[2021-01-04T03:16:09+08:00][error] [0]语法错误: unexpected '{', expecting '('
+[2021-01-04T03:16:40+08:00][error] [0]语法错误: unexpected '{', expecting '('
+[2021-01-04T03:18:07+08:00][error] [0]语法错误: unexpected '{', expecting '('
+[2021-01-04T03:18:09+08:00][error] [0]语法错误: unexpected '{', expecting '('
+[2021-01-04T03:18:32+08:00][error] [0]语法错误: unexpected '{', expecting '('
+[2021-01-04T03:18:37+08:00][error] [0]语法错误: unexpected '{', expecting '('
+[2021-01-04T03:18:59+08:00][error] [0]语法错误: unexpected '{', expecting '('
+[2021-01-04T03:19:56+08:00][error] [0]语法错误: unexpected '{', expecting '('
+[2021-01-04T03:22:42+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\regcheck.html
+[2021-01-04T03:34:40+08:00][error] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp\app\view\index\check.html

@@ -1,0 +1,12 @@
+[2021-03-05T13:31:01+08:00][sql] CONNECT:[ UseTime:0.004585s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T13:31:01+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.012008s ]
+[2021-03-05T13:31:01+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000862s ]
+[2021-03-05T14:49:16+08:00][sql] CONNECT:[ UseTime:0.001294s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T14:49:16+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.001634s ]
+[2021-03-05T14:49:16+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000508s ]
+[2021-03-05T15:26:15+08:00][sql] CONNECT:[ UseTime:0.001203s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T15:26:15+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.001957s ]
+[2021-03-05T15:26:15+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000450s ]
+[2021-03-05T16:45:09+08:00][sql] CONNECT:[ UseTime:0.001183s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T16:45:09+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.002038s ]
+[2021-03-05T16:45:09+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.001154s ]

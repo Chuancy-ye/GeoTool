@@ -1,0 +1,87 @@
+[2021-03-08T01:16:20+08:00][sql] CONNECT:[ UseTime:0.000963s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:16:20+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000791s ]
+[2021-03-08T01:16:20+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000393s ]
+[2021-03-08T01:16:48+08:00][sql] CONNECT:[ UseTime:0.001073s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:16:48+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000780s ]
+[2021-03-08T01:16:48+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000424s ]
+[2021-03-08T01:21:42+08:00][sql] CONNECT:[ UseTime:0.010226s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:21:42+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000955s ]
+[2021-03-08T01:21:42+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000420s ]
+[2021-03-08T01:28:34+08:00][sql] CONNECT:[ UseTime:0.000920s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:28:34+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000925s ]
+[2021-03-08T01:28:34+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000492s ]
+[2021-03-08T01:29:05+08:00][sql] CONNECT:[ UseTime:0.010489s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:29:05+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.001104s ]
+[2021-03-08T01:29:05+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000443s ]
+[2021-03-08T01:29:23+08:00][sql] CONNECT:[ UseTime:0.010775s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:29:23+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000785s ]
+[2021-03-08T01:29:23+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000422s ]
+[2021-03-08T01:30:11+08:00][sql] CONNECT:[ UseTime:0.002211s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:30:11+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000910s ]
+[2021-03-08T01:30:11+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000430s ]
+[2021-03-08T01:35:20+08:00][sql] CONNECT:[ UseTime:0.009980s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:35:20+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000831s ]
+[2021-03-08T01:35:20+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000408s ]
+[2021-03-08T01:37:30+08:00][sql] CONNECT:[ UseTime:0.000981s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:37:30+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000802s ]
+[2021-03-08T01:37:30+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000445s ]
+[2021-03-08T01:39:05+08:00][sql] CONNECT:[ UseTime:0.011366s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:39:05+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.002092s ]
+[2021-03-08T01:39:05+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000372s ]
+[2021-03-08T01:40:31+08:00][sql] CONNECT:[ UseTime:0.010615s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:40:31+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000847s ]
+[2021-03-08T01:40:31+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000462s ]
+[2021-03-08T01:41:09+08:00][sql] CONNECT:[ UseTime:0.001041s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:41:09+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000774s ]
+[2021-03-08T01:41:09+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000455s ]
+[2021-03-08T01:49:14+08:00][sql] CONNECT:[ UseTime:0.000861s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:49:14+08:00][sql] SHOW FULL COLUMNS FROM `shop_user` [ RunTime:0.001098s ]
+[2021-03-08T01:49:14+08:00][sql] SELECT * FROM `shop_user` WHERE  `account` = 'yumiao' LIMIT 1 [ RunTime:0.000327s ]
+[2021-03-08T01:52:32+08:00][sql] CONNECT:[ UseTime:0.000794s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:52:32+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.001777s ]
+[2021-03-08T01:52:32+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000610s ]
+[2021-03-08T01:58:35+08:00][sql] CONNECT:[ UseTime:0.001199s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:58:35+08:00][sql] SHOW FULL COLUMNS FROM `shop_user` [ RunTime:0.000759s ]
+[2021-03-08T01:58:35+08:00][sql] SELECT * FROM `shop_user` WHERE  `account` = 'yumiao' LIMIT 1 [ RunTime:0.000440s ]
+[2021-03-08T01:58:48+08:00][sql] CONNECT:[ UseTime:0.001011s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T01:58:48+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.001676s ]
+[2021-03-08T01:58:48+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000437s ]
+[2021-03-08T02:02:21+08:00][sql] CONNECT:[ UseTime:0.000967s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T02:02:21+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.001263s ]
+[2021-03-08T02:02:21+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'yumiao' LIMIT 1 [ RunTime:0.000404s ]
+[2021-03-08T02:07:17+08:00][sql] CONNECT:[ UseTime:0.000877s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T02:07:17+08:00][sql] SHOW FULL COLUMNS FROM `shop_user` [ RunTime:0.000938s ]
+[2021-03-08T02:07:17+08:00][sql] SELECT * FROM `shop_user` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000425s ]
+[2021-03-08T02:12:08+08:00][sql] CONNECT:[ UseTime:0.000957s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T02:12:08+08:00][sql] SHOW FULL COLUMNS FROM `shop_user` [ RunTime:0.000918s ]
+[2021-03-08T02:12:08+08:00][sql] SELECT * FROM `shop_user` WHERE  `account` = 'xiaozhang' LIMIT 1 [ RunTime:0.000407s ]
+[2021-03-08T02:12:58+08:00][sql] CONNECT:[ UseTime:0.002159s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T02:12:58+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.001345s ]
+[2021-03-08T02:12:58+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000420s ]
+[2021-03-08T03:13:36+08:00][sql] CONNECT:[ UseTime:0.001061s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T03:13:36+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.000965s ]
+[2021-03-08T03:13:36+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000459s ]
+[2021-03-08T03:27:24+08:00][sql] CONNECT:[ UseTime:0.000900s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T03:27:24+08:00][sql] SHOW FULL COLUMNS FROM `shop_user` [ RunTime:0.001189s ]
+[2021-03-08T03:27:24+08:00][sql] SELECT * FROM `shop_user` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000423s ]
+[2021-03-08T03:49:12+08:00][sql] CONNECT:[ UseTime:0.000950s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T03:49:12+08:00][sql] SHOW FULL COLUMNS FROM `shop_user` [ RunTime:0.001034s ]
+[2021-03-08T03:49:12+08:00][sql] SELECT * FROM `shop_user` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000415s ]
+[2021-03-08T03:51:05+08:00][sql] CONNECT:[ UseTime:0.000989s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T03:51:05+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.001977s ]
+[2021-03-08T03:51:05+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000690s ]
+[2021-03-08T13:18:37+08:00][sql] CONNECT:[ UseTime:0.010102s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T13:18:37+08:00][sql] SHOW FULL COLUMNS FROM `shop_admin` [ RunTime:0.001571s ]
+[2021-03-08T13:18:37+08:00][sql] SELECT * FROM `shop_admin` WHERE  `account` = 'ye' LIMIT 1 [ RunTime:0.000489s ]
+[2021-03-08T13:18:55+08:00][sql] CONNECT:[ UseTime:0.010501s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T13:18:55+08:00][sql] SHOW FULL COLUMNS FROM `shop_user` [ RunTime:0.000917s ]
+[2021-03-08T13:18:55+08:00][sql] SELECT * FROM `shop_user` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000331s ]
+[2021-03-08T16:39:28+08:00][sql] CONNECT:[ UseTime:0.010676s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T16:39:28+08:00][sql] SHOW FULL COLUMNS FROM `shop_user` [ RunTime:0.000986s ]
+[2021-03-08T16:39:28+08:00][sql] SELECT * FROM `shop_user` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000434s ]
+[2021-03-08T20:08:06+08:00][sql] CONNECT:[ UseTime:0.001259s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T20:08:06+08:00][sql] SHOW FULL COLUMNS FROM `shop_user` [ RunTime:0.001559s ]
+[2021-03-08T20:08:06+08:00][sql] SELECT * FROM `shop_user` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000448s ]
+[2021-03-08T23:19:00+08:00][sql] CONNECT:[ UseTime:0.002593s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-08T23:19:00+08:00][sql] SHOW FULL COLUMNS FROM `shop_user` [ RunTime:0.001506s ]
+[2021-03-08T23:19:00+08:00][sql] SELECT * FROM `shop_user` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000473s ]

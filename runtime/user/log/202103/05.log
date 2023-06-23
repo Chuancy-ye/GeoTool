@@ -1,0 +1,68 @@
+[2021-03-05T15:40:14+08:00][error] [8]未定义变量: nowtime
+[2021-03-05T16:01:44+08:00][error] [8]未定义变量: cat
+[2021-03-05T16:12:00+08:00][sql] CONNECT:[ UseTime:0.001078s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T16:12:00+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001239s ]
+[2021-03-05T16:12:00+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000477s ]
+[2021-03-05T16:44:57+08:00][sql] CONNECT:[ UseTime:0.002040s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T16:44:57+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001492s ]
+[2021-03-05T16:44:57+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000487s ]
+[2021-03-05T16:45:10+08:00][sql] CONNECT:[ UseTime:0.001223s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T16:45:10+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.002166s ]
+[2021-03-05T16:45:10+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000420s ]
+[2021-03-05T16:45:36+08:00][sql] CONNECT:[ UseTime:0.000909s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T16:45:36+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.000927s ]
+[2021-03-05T16:45:36+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000405s ]
+[2021-03-05T16:46:35+08:00][sql] CONNECT:[ UseTime:0.001015s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T16:46:35+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001370s ]
+[2021-03-05T16:46:35+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000754s ]
+[2021-03-05T16:47:43+08:00][sql] CONNECT:[ UseTime:0.009958s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T16:47:43+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001027s ]
+[2021-03-05T16:47:43+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000385s ]
+[2021-03-05T16:49:01+08:00][sql] CONNECT:[ UseTime:0.000959s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T16:49:01+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001226s ]
+[2021-03-05T16:49:01+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000429s ]
+[2021-03-05T16:55:52+08:00][sql] CONNECT:[ UseTime:0.001129s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T16:55:52+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.000897s ]
+[2021-03-05T16:55:52+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000483s ]
+[2021-03-05T16:58:37+08:00][sql] CONNECT:[ UseTime:0.001036s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T16:58:37+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001385s ]
+[2021-03-05T16:58:37+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000498s ]
+[2021-03-05T16:59:26+08:00][sql] CONNECT:[ UseTime:0.000986s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T16:59:26+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001878s ]
+[2021-03-05T16:59:26+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000515s ]
+[2021-03-05T17:00:11+08:00][sql] CONNECT:[ UseTime:0.001478s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T17:00:11+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001619s ]
+[2021-03-05T17:00:11+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000533s ]
+[2021-03-05T17:00:40+08:00][sql] CONNECT:[ UseTime:0.001544s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T17:00:40+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.002630s ]
+[2021-03-05T17:00:40+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000777s ]
+[2021-03-05T17:01:44+08:00][sql] CONNECT:[ UseTime:0.010041s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T17:01:44+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001476s ]
+[2021-03-05T17:01:44+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000635s ]
+[2021-03-05T17:01:55+08:00][sql] CONNECT:[ UseTime:0.010374s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T17:01:55+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001193s ]
+[2021-03-05T17:01:55+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000542s ]
+[2021-03-05T17:02:06+08:00][sql] CONNECT:[ UseTime:0.001373s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T17:02:06+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001135s ]
+[2021-03-05T17:02:06+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000602s ]
+[2021-03-05T17:02:27+08:00][sql] CONNECT:[ UseTime:0.010513s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T17:02:27+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.000878s ]
+[2021-03-05T17:02:27+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000520s ]
+[2021-03-05T17:02:39+08:00][sql] CONNECT:[ UseTime:0.011830s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T17:02:39+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001011s ]
+[2021-03-05T17:02:39+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000559s ]
+[2021-03-05T17:03:02+08:00][sql] CONNECT:[ UseTime:0.002522s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T17:03:02+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.000977s ]
+[2021-03-05T17:03:02+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000440s ]
+[2021-03-05T17:03:13+08:00][sql] CONNECT:[ UseTime:0.010188s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T17:03:13+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001506s ]
+[2021-03-05T17:03:13+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000669s ]
+[2021-03-05T17:03:24+08:00][sql] CONNECT:[ UseTime:0.010703s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T17:03:24+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001304s ]
+[2021-03-05T17:03:24+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000679s ]
+[2021-03-05T17:03:38+08:00][sql] CONNECT:[ UseTime:0.010077s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T17:03:38+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.001279s ]
+[2021-03-05T17:03:38+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000669s ]
+[2021-03-05T17:03:49+08:00][sql] CONNECT:[ UseTime:0.010724s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-05T17:03:49+08:00][sql] SHOW FULL COLUMNS FROM `shop_cat` [ RunTime:0.000826s ]
+[2021-03-05T17:03:49+08:00][sql] SELECT * FROM `shop_cat` WHERE  `status` = 1 [ RunTime:0.000410s ]

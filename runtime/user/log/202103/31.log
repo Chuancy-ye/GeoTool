@@ -1,0 +1,5 @@
+[2021-03-31T17:17:01+08:00][sql] CONNECT:[ UseTime:0.022203s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-31T17:17:01+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.015131s ]
+[2021-03-31T17:17:01+08:00][sql] SELECT * FROM `shop_goods` WHERE  `account` IS NULL [ RunTime:0.001439s ]
+[2021-03-31T17:17:01+08:00][sql] SHOW FULL COLUMNS FROM `shop_user` [ RunTime:0.004539s ]
+[2021-03-31T17:17:01+08:00][sql] SELECT * FROM `shop_user` WHERE  `account` IS NULL LIMIT 1 [ RunTime:0.000625s ]

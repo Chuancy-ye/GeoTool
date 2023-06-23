@@ -1,0 +1,9 @@
+[2021-03-14T01:55:32+08:00][sql] CONNECT:[ UseTime:0.001122s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-14T01:55:32+08:00][sql] SHOW FULL COLUMNS FROM `shop_menu` [ RunTime:0.002700s ]
+[2021-03-14T01:55:32+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 0 [ RunTime:0.000516s ]
+[2021-03-14T01:55:32+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 1 [ RunTime:0.000578s ]
+[2021-03-14T01:55:32+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 4 [ RunTime:0.000332s ]
+[2021-03-14T01:55:32+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 9 [ RunTime:0.000437s ]
+[2021-03-14T01:55:32+08:00][sql] SELECT * FROM `shop_menu` WHERE  `fid` = 12 [ RunTime:0.000426s ]
+[2021-03-14T01:55:32+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.000833s ]
+[2021-03-14T01:55:32+08:00][sql] SELECT * FROM `shop_goods` [ RunTime:0.000346s ]

@@ -1,0 +1,10 @@
+[2021-03-13T22:20:09+08:00][sql] CONNECT:[ UseTime:0.011252s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-13T22:20:09+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.003722s ]
+[2021-03-13T22:20:09+08:00][sql] SELECT * FROM `shop_goods` WHERE  `account` = 'ouyangke' [ RunTime:0.000663s ]
+[2021-03-13T22:20:09+08:00][sql] SHOW FULL COLUMNS FROM `shop_user` [ RunTime:0.000981s ]
+[2021-03-13T22:20:09+08:00][sql] SELECT * FROM `shop_user` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000351s ]
+[2021-03-13T22:20:11+08:00][sql] CONNECT:[ UseTime:0.000943s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-13T22:20:11+08:00][sql] SHOW FULL COLUMNS FROM `shop_goods` [ RunTime:0.001332s ]
+[2021-03-13T22:20:11+08:00][sql] SELECT * FROM `shop_goods` WHERE  `account` = 'ouyangke' [ RunTime:0.000422s ]
+[2021-03-13T22:20:11+08:00][sql] SHOW FULL COLUMNS FROM `shop_user` [ RunTime:0.001295s ]
+[2021-03-13T22:20:11+08:00][sql] SELECT * FROM `shop_user` WHERE  `account` = 'ouyangke' LIMIT 1 [ RunTime:0.000509s ]

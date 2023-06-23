@@ -1,0 +1,29 @@
+[2021-03-02T00:12:03+08:00][error] [0]语法错误: unexpected 'use' (T_USE), expecting '{'
+[2021-03-02T00:13:06+08:00][error] [0]语法错误: unexpected 'use' (T_USE), expecting '{'
+[2021-03-02T00:13:12+08:00][error] [0]语法错误: unexpected 'use' (T_USE), expecting '{'
+[2021-03-02T00:18:17+08:00][error] [0]语法错误: unexpected 'use' (T_USE), expecting '{'
+[2021-03-02T00:27:34+08:00][error] [0]语法错误: unexpected 'use' (T_USE), expecting '{'
+[2021-03-02T00:30:15+08:00][error] [0]语法错误: unexpected 'use' (T_USE), expecting '{'
+[2021-03-02T00:30:19+08:00][error] [0]语法错误: unexpected 'use' (T_USE), expecting '{'
+[2021-03-02T00:35:12+08:00][error] [0]语法错误: unexpected '；' (T_STRING)
+[2021-03-02T00:41:37+08:00][error] [0]语法错误: unexpected '；' (T_STRING)
+[2021-03-02T00:41:40+08:00][error] [0]语法错误: unexpected '；' (T_STRING)
+[2021-03-02T00:41:42+08:00][error] [0]语法错误: unexpected '；' (T_STRING)
+[2021-03-02T00:42:12+08:00][error] [0]语法错误: unexpected '；' (T_STRING)
+[2021-03-02T02:13:59+08:00][error] [8]未定义变量: title
+[2021-03-02T02:14:44+08:00][error] [8]未定义变量: title
+[2021-03-02T03:20:06+08:00][error] [0]语法错误: unexpected 'view' (T_STRING)
+[2021-03-02T03:20:11+08:00][error] [0]语法错误: unexpected 'view' (T_STRING)
+[2021-03-02T03:20:27+08:00][error] [0]语法错误: unexpected 'view' (T_STRING)
+[2021-03-02T03:32:39+08:00][error] [0]语法错误: unexpected 'view' (T_STRING)
+[2021-03-02T22:00:23+08:00][error] [0]Class 'app\index\controller\Request' not found
+[2021-03-02T22:00:30+08:00][error] [0]Class 'app\index\controller\Request' not found
+[2021-03-02T22:01:22+08:00][error] [0]Class 'app\index\controller\Request' not found
+[2021-03-02T22:02:33+08:00][error] [0]Class 'app\index\controller\Request' not found
+[2021-03-02T22:04:20+08:00][error] [0]Class 'app\index\controller\Request' not found
+[2021-03-02T22:06:16+08:00][error] [0]Class 'app\index\controller\Request' not found
+[2021-03-02T22:38:50+08:00][error] [8]未定义变量: user
+[2021-03-02T22:41:02+08:00][error] [8]未定义变量: user
+[2021-03-02T22:41:14+08:00][error] [8]未定义变量: user
+[2021-03-02T22:43:48+08:00][error] [8]未定义变量: user
+[2021-03-02T22:44:38+08:00][error] [8]未定义变量: user

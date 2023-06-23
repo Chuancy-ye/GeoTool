@@ -1,0 +1,3 @@
+[2021-03-27T21:10:34+08:00][sql] CONNECT:[ UseTime:0.004572s ] mysql:host=127.0.0.1;port=3306;dbname=tp;charset=utf8
+[2021-03-27T21:10:34+08:00][sql] SHOW FULL COLUMNS FROM `shop_show` [ RunTime:0.003115s ]
+[2021-03-27T21:10:34+08:00][sql] SELECT * FROM `shop_show` WHERE  `status` = 1 [ RunTime:0.001096s ]
