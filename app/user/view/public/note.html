@@ -1,0 +1,121 @@
+             <!-- right -->
+                    <div class="col-md-6">
+                        <div class="tabulation tabulation2">
+                            <div class="d-flex tabs border border-left-0 border-right-0 border-top-0 justify-content-center">
+                                <div class="d-inline-block">
+                                    <ul class="nav nav-tabs border-0">
+                                        <li class="nav-item">
+                                            <a class="nav-link active" data-toggle="tab" href="#home1">
+                                                预约日历
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" data-toggle="tab" href="#home2">
+                                                留言反馈
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="tab-content border-0">
+                                <div class="tab-pane container p-4 active text-center" id="home1">
+                                    <p>
+                                       欢迎使用本平台！</p>
+                                    
+<div id="calendar">
+      <div class="yearMon"></div>
+      <div class="date"></div>
+      <div class="week"></div>
+</div>
+                                     
+                                        <label for="phone">
+                        服务电话：18570771803/18570072232
+                        </label>
+                        <p>地址：湖南省长沙市岳麓区麓山南路中南大学北小门云中科技旁</p>
+                                      
+                                 
+                                </div>
+                                <div class="tab-pane container p-4 fade text-center" style="height: 20rem" id="home2">
+                                 
+
+     <div class="column">
+                    <form action="">
+                       
+                        <label for="phone">
+                            电话*
+                        </label>
+                        <input id="phone" name="phone" placeholder="您的联系电话.." type="text">
+                        </input>
+                        <p>
+                        <label for="subject">
+                            留言*
+                        </label>
+                        <textarea id="subject" name="subject" style="height:100px">
+                        </textarea>
+                    </p>
+                        <div class="layui-form-item">
+                            <div class="layui-input-block">
+                                <button class="layui-btn" style="background: #f44336" onclick="myFunction()" type="button">
+                                    提  交
+                                </button>
+                            </div>
+                        </div>
+                        <script>
+                            function myFunction(){
+    alert("我们将很快与您联系！");
+}
+                        </script>
+                    </form>
+                </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+<style type="text/css">
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /*background-color: write;*/
+}
+#calendar{
+    background-color: #fff;
+    width: 200px;
+    height: 190px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 70px auto;
+    text-align: center;
+}
+#calendar .yearMon{
+    background-color: #ddd;
+    padding: 5px 0;
+}
+#calendar .date{
+    color: #0099FF;
+    font-size: 96px;
+    font-weight: bold;
+}
+</style>
+<script type="text/javascript">
+    $(function(){
+    // 获取时间
+    var nowDate = new Date();     
+    var year = nowDate.getFullYear();    
+    var month = nowDate.getMonth() + 1 < 10 ? "0" + (nowDate.getMonth() + 1) : nowDate.getMonth() + 1;    
+    var date = nowDate.getDate() < 10 ? "0" + nowDate.getDate() : nowDate.getDate();
+    var week = "星期" + "日一二三四五六".split(/(?!\b)/)[nowDate.getDay()];
+    // 添加文本内容到相应的div
+    $(".yearMon").text(year+"年"+month+"月");
+    $(".date").text(date);
+    $(".week").text(week);
+});
+
+</script>

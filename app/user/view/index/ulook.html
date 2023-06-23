@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="/static/layui/css/layui.css">
+    <script type="text/javascript" src="/static/layui/layui.js"></script>
+</head>
+<body style="padding:10px;">
+    <form class="layui-form">
+        <input type="hidden" name="id" value="{$shop.id}">
+        <div class="layui-form-item">
+            <label class="layui-form-label">姓名:</label>
+            <div class="layui-input-inline">
+                <input type="text" class="layui-input" style="border:0px;" readonly='readonly'name="title" value="{$shop.title}">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">电话:</label>
+            <div class="layui-input-inline">
+                <input type="text" class="layui-input" style="border:0px;" readonly='readonly'name="phone" value="{$shop.phone}">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">项目:</label>
+            <div class="layui-input-inline">
+                <select name="cat" style="border:0px;" disabled="disabled">
+                    <option value=0 {if $shop['cat']==0} selected {/if}></option>
+                    {volist name="cat" id="cat_v"}
+                    <option value="{$cat_v['id']}" {if $shop['cat']==$cat_v['id']} selected {/if}>{$cat_v['name']}</option>
+                    {/volist}
+                </select>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">费用/时:</label>
+            <div class="layui-input-inline">
+                <input type="text" class="layui-input" style="border:0px;" readonly='readonly'name="price" value="{$shop.price}">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">实验时长:</label>
+            <div class="layui-input-inline" style="width: 8rem;">
+                <input type="text" class="layui-input" name="discount" style="border:0px;" readonly='readonly' value="{$shop.discount}(点数or小时)">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">预约时间:</label>
+            <div class="layui-input-inline">
+                <input type="text" class="layui-input"  style="border:0px;" readonly='readonly'name="start_time" value="{$shop.start_time|date ='Y-m-d H:i'}">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">当前状态:</label>
+            <div class="layui-input-inline">
+                <input type="text" class="layui-input"  style="border:0px;" readonly='readonly'name="status" value=" {if $shop.status==0}已关闭
+                        {elseif $shop.status==1}提交未支付
+                        {elseif $shop.status==2}已支付
+                        {elseif $shop.status==3}在实验
+                        {elseif $shop.status==4}已完成
+                         {elseif $shop.status==5}已联系
+                        {else/}
+                            错误，联系开发者
+                        {/if}">
+                
+            </div>
+        </div>
+        <div class="layui-form-item">
+        <label class="layui-form-label">寄回地址：</label>
+         <div class="layui-input-inline" style="width: 17.8rem">
+                <input type="text" class="layui-input" name="place" disabled="disabled" style="border:0px;" value="{$shop.place}">
+            </div>
+    </div>
+    </form>
+   <!--  <div class="layui-form-item">
+        <div class="layui-input-block">
+            <button class="layui-btn" onclick="save()">保存</button>
+        </div>
+    </div> -->
+    <script type="text/javascript">
+        layui.use(['layer','form'],function(){
+            form = layui.form;
+            layer = layui.layer;
+            $ = layui.jquery;
+        });
+        function save(){
+            $.post('/index.php/user/index/uedit',$('form').serialize(),function(res){
+                if(res.code>0){
+                    layer.alert(res.msg,{icon:2});
+                }else{
+                    layer.msg(res.msg);
+                    setTimeout(function(){parent.window.location.reload();},1000);
+                }
+            },'json');
+        }
+    </script>
+</body>
+</html>
